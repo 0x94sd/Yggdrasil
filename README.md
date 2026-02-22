@@ -171,10 +171,6 @@ CREATE TABLE credentials (
 );
 ```
 
-## 🎨 Captures d'écran
-
-<!-- Ajoutez vos captures d'écran ici -->
-
 ## 🐛 Dépannage
 
 ### Erreur de connexion PostgreSQL
@@ -203,23 +199,9 @@ UnicodeDecodeError: 'charmap' codec can't decode
 - **Recherche** : < 1ms pour une recherche exacte
 - **Capacité** : Testé jusqu'à 100M+ de credentials
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add AmazingFeature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
-
 ## 📝 TODO
 
-- [ ] Export de résultats en CSV
-- [ ] Recherche par pattern regex
-- [ ] Support de formats supplémentaires (JSON, CSV)
 - [ ] Interface web
-- [ ] API REST
 - [ ] Chiffrement des mots de passe stockés
 
 ## 📜 Licence
@@ -229,12 +211,6 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 👤 Auteur
 
 **Keryan** - [@0x94sd](https://github.com/0x94sd)
-
-## 🙏 Remerciements
-
-- PostgreSQL pour la base de données robuste
-- Colorama pour les couleurs dans le terminal
-- La communauté Python
 
 ---
 
