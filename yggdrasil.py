@@ -138,7 +138,7 @@ def rechercher_email():
         database=db_database
     )
 
-    cursor = conn.cursor() # curseur pour exécuter des commandes SQL/
+    cursor = conn.cursor() # curseur pour exécuter des commandes SQL
 
     email = input("\nEntre l'email à rechercher: ")
     print()
