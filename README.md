@@ -20,7 +20,7 @@
 
 - 🗄️ **Import massif** : Importez des millions de credentials depuis des fichiers texte
 - 🔍 **Recherche rapide** : Retrouvez instantanément un email et son mot de passe
-- 🎨 **Interface colorée** : Terminal stylé avec ASCII art et couleurs
+- 🎨 **Interface colorée** : Terminal avec ASCII art et couleurs
 - 🛡️ **Gestion des doublons** : Évite automatiquement les entrées en double
 - 📊 **Statistiques détaillées** : Suivi de l'import avec rapports par fichier
 - ✅ **Validation des données** : Filtrage des emails invalides et des données trop longues
